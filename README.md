@@ -6,4 +6,4 @@ You should have the ability to open and run the MATLAB Live Scripts listed below
 ## Dynamics
 - A simulator to visualize the motion of a mass suspended by a rubber band, intended to make students familiar with spring-pulley problems and when their physical assumptions fail. [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=aghostinthefigures/teaching-resources&file=RubberBandBallSimulator.mlx)
 - A simulator to visualize the motion of a stick-on-a-spring under the influence of gravity, intended to teach students about unpredictability in dynamics.
-- A mass-spring simulator designed to help students become familiar with normal modes.
+- A mass-spring simulator designed to help students become familiar with normal modes. [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=aghostinthefigures/teaching-resources&file=SpringSimulator.mlx)
